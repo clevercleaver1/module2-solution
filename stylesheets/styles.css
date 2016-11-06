@@ -3,6 +3,7 @@
 
 body{
     margin: 0px;
+	font-size:16px;
 }
 
 /****** containing elements ******/
@@ -18,7 +19,7 @@ body{
 
 h1{
 	text-align: center;
-	font-size: 1.5em;
+	font-size: 175%;
 	/* display: none; */
 	}
 
@@ -27,7 +28,7 @@ h1{
 	display: block;
 	position: relative;
 	border: 2px solid #000000;
-	font-size: 1.2em;
+	font-size: 125%;
 	margin: 0px;
 	clear: both;
 	width: 33.33%;
@@ -43,7 +44,7 @@ background-color: red;}
 .sushi h2{color: #000000;
 background-color: yellow;}
 
-p{font-family: Helvetica, Arial, sans-serif;font-size: 1em;margin: 0px;padding: 15px;clear: both;}
+p{font-family: Helvetica, Arial, sans-serif;font-size: 100%;margin: 0px;padding: 15px;clear: both;}
 
 
 /* laptop and desktop screen media queries */
