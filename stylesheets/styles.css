@@ -48,7 +48,7 @@ p{font-family: Helvetica, Arial, sans-serif;font-size: 1em;margin: 0px;padding: 
 
 /* laptop and desktop screen media queries */
 @media only screen 
-  and (min-device-width: 997px) 
+  and (min-width: 997px) 
 {
 	.container{padding: 0px;}
 	.column-third{
@@ -65,8 +65,8 @@ p{font-family: Helvetica, Arial, sans-serif;font-size: 1em;margin: 0px;padding: 
 
 /* tablet screen media queries */
 @media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 991px)
+  and (min-width: 768px) 
+  and (max-width: 991px)
  {
  	.container{padding: 0px 10px;}
 
@@ -92,7 +92,7 @@ p{font-family: Helvetica, Arial, sans-serif;font-size: 1em;margin: 0px;padding: 
 
 /* phone/mobile screen media queries */
 @media only screen 
-  and (max-device-width: 767px) 
+  and (max-width: 767px) 
 {
 	.container{padding: 0px 10px;}
 
