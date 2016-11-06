@@ -11,7 +11,7 @@ body{
 	position: absolute;
 	margin: 0px;
 	height: auto;
-padding:0 10px;}
+padding:0px 10px;}
 .row{width: 100%;
 	position: relative; float: left;}
 .fooditem{position: relative;margin: 10px;background-color: #d1d1d1;/* width: 100%; */border: 2px solid #000000;}
