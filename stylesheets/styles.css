@@ -11,7 +11,7 @@ body{
 	position: absolute;
 	margin: 0px;
 	height: auto;
-padding:10px;}
+padding:0 10px;}
 .row{width: 100%;
 	position: relative; float: left;}
 .fooditem{position: relative;margin: 10px;background-color: #d1d1d1;/* width: 100%; */border: 2px solid #000000;}
@@ -52,7 +52,6 @@ p{font-family: Helvetica, Arial, sans-serif;font-size: 100%;margin: 0px;padding:
 @media only screen 
   and (min-width: 992px) 
 {
-	.container{padding: 0px;}
 	.column-third{
 	position: relative;
 	float: left;
@@ -70,7 +69,6 @@ p{font-family: Helvetica, Arial, sans-serif;font-size: 100%;margin: 0px;padding:
   and (min-width: 768px) 
   and (max-width: 991px)
  {
- 	.container{padding: 0px 10px;}
 
  	.column-half{
 	position: relative;
@@ -96,7 +94,6 @@ p{font-family: Helvetica, Arial, sans-serif;font-size: 100%;margin: 0px;padding:
 @media only screen 
   and (max-width: 767px) 
 {
-	.container{padding: 0px 10px;}
 
 	.column-third{
 	position: relative;
