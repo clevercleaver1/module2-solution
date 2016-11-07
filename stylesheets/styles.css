@@ -14,7 +14,7 @@ body{
 padding:0px 10px;}
 .row{width: 100%;
 	position: relative; float: left;}
-.fooditem{position: relative;margin: 10px;background-color: #d1d1d1;/* width: 100%; */border: 2px solid #000000;}
+.fooditem{position: relative;margin: 10px;background-color: #d1d1d1;/* width: 100%; */border: 1px solid #000000;}
 
 /****** text elements ******/
 
@@ -28,7 +28,7 @@ h1{
 	text-align: center;
 	display: block;
 	position: relative;
-	border: 2px solid #000000;
+	border: 1px solid #000000;
 	font-size: 125%;
 	margin: 0px;
 	clear: both;
